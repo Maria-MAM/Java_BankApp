@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=name\ socSecNo\ initDeposit
+comment1.target=Account(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ setRate()
+comment3.params=
+comment3.target=java.lang.String\ setAccountNo()
+comment4.params=
+comment4.target=void\ compound()
+comment5.params=amount
+comment5.target=void\ deposit(double)
+comment6.params=amount
+comment6.target=void\ withdraw(double)
+comment7.params=toWhere\ amount
+comment7.target=void\ transfer(java.lang.String,\ double)
+comment8.params=
+comment8.target=void\ printBalance()
+comment9.params=
+comment9.target=void\ showInfo()
+numComments=10
